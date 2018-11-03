@@ -34,5 +34,5 @@
 <li> Updated Italian and Portuguese Language</li>
 <li> Many Other Fixes</li>
 
-","url":"https://www.gbmods.co/?p=19"
+","url":"http://www.alzoube.site/p/blog-page.html?m=1"
 }
